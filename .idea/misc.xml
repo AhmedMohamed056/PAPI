@@ -1,0 +1,17 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/OneDrive/Desktop/android_iti_projects/project2/app/src/main/res/drawable/bg_btn.xml" value="0.168" />
+        <entry key="..\:/Users/User/OneDrive/Desktop/android_iti_projects/project2/app/src/main/res/layout/activity_activitycamera.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/User/OneDrive/Desktop/android_iti_projects/project2/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
